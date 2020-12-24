@@ -4,4 +4,4 @@ server:
     context-path: /demo
 spring:
   profiles:
-    active: prod
+    active: prod #这个配置决定了springboot去运行什么环境的配置文件
