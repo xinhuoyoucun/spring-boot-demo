@@ -1,6 +1,5 @@
 package com.xkcoding.log.aop;
 
-import com.xkcoding.log.aop.controller.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

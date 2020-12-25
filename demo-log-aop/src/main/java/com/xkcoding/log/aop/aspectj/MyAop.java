@@ -15,7 +15,7 @@ public class MyAop {
     /**
      * 切入点
      */
-    @Pointcut("execution(public * com.xkcoding.log.aop..*.*(..))")
+    @Pointcut("execution(public * com.xkcoding.log.aop.service..*.*(..))")
     public void myLog() {
 
     }

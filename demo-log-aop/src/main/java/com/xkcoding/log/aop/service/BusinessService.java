@@ -1,4 +1,4 @@
-package com.xkcoding.log.aop.controller;
+package com.xkcoding.log.aop.service;
 
 import org.springframework.stereotype.Component;
 
